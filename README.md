@@ -1,6 +1,10 @@
 # 💫 About Me:
-<br>
-# 🌐 Socials:
+- 🎓 BE in Computer Science Engineering  
+- 💻 Aspiring Software Engineer | AI/ML Engineer | Full-Stack Developer
+- 🚀 Passionate about building scalable and intelligent applications
+- 📍 India
+
+## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-na/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepna46@gmail.com) 
 

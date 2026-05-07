@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🎓 BE in Computer Science Engineering  
-- 💻 Aspiring Software Engineer | AI/ML Engineer | Full-Stack Developer
+- 💻 Aspiring Software Engineer | AI/ML Engineer
 - 🚀 Passionate about building scalable and intelligent applications
 - 📍 India
 
